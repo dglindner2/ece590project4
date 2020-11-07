@@ -3,9 +3,9 @@ Math 560
 Project 4
 Fall 2020
 
-Partner 1:
-Partner 2:
-Date:
+Partner 1: George Lindner
+Partner 2: Ezinne Nwankwo
+Date: 11/6/20
 """
 
 # Import p4tests.
